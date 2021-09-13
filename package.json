@@ -1,0 +1,14 @@
+{
+  "name": "luca.sanz-l1l2_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SolutionAND.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.1"
+  }
+}
